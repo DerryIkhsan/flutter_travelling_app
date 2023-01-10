@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-### Flutter Portfolio
+# Result
 <div>
-  <img alt="img" src="https://github.com/DerryIkhsan/flutter_travelling_app/blob/main/travelling_app.jpeg" width="225" height="425">
+  <img alt="img" src="https://github.com/DerryIkhsan/flutter_travelling_app/blob/master/travelling_app.jpeg" width="225" height="425">
 </div>
